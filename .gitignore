@@ -1,0 +1,12 @@
+Tracker/x64
+x64
+model/VIPLFaceDetector5.0.0.dat
+Tracker/Tracker.vcxproj.user
+Tracker.opensdf
+Tracker.sdf
+ipch
+*.mp4
+*.suo
+Tracker/obj
+Tracker/bin
+*.lib
